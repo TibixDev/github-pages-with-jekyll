@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Tibix's Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome! Here I plan to talk about programming.
