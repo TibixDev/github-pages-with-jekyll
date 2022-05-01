@@ -10,3 +10,4 @@ twitter_username: ItzTibix
 github_username:  TibixDev
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
