@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll, once again!"
+title: "Sample Post"
 date: 2022-05-01
 ---
 
